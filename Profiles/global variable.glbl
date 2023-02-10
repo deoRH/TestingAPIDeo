@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>global variable</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Development'</initValue>
+      <name>Envi</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User password</description>
+      <initValue>'xxx'</initValue>
+      <name>UserID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password password</description>
+      <initValue>'xxx'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'www.www.com'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
